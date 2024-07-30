@@ -1,0 +1,62 @@
+<!-- Awal Foto -->
+  <div class="card mb" style="padding-left: 12px; padding-top: 12px; padding-right: 12px;" style="max-width:5cm ;min-width:5cm; position:relative; left: 0cm; ;">
+    <img src="1657622656075.jpg" class="card-img-center" alt="..." style="max-width:10cm ;min-width:5cm; position:relative; left: 0cm;">
+    <div class="card-body">
+      <h5 class="card-title text-dark" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;">Cloudy sunset</h5>
+      <p class="card-text text-dark" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;">Taken 17/03/2022.</p>
+      <p class="card-text" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;"><small class="text-muted">Nikon D5600</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <!-- Akhir -->
+ <!-- Awal Foto -->
+  <div class="card mb" style="padding-left: 12px; padding-top: 12px; padding-right: 12px;" style="max-width:5cm ;min-width:5cm; position:relative; left: 0cm; ;">
+    <img src="1657622656098.jpg" class="card-img-center" alt="..." style="max-width:10cm ;min-width:5cm; position:relative; left: 0cm;">
+    <div class="card-body">
+      <h5 class="card-title text-dark" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;">Food party</h5>
+      <p class="card-text text-dark" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;">Taken 18/09/2021 .</p>
+      <p class="card-text" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;"><small class="text-muted">Nikon D5600</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <!-- Akhir -->
+    <!-- Awal Foto -->
+  <div class="card mb" style="padding-left: 12px; padding-top: 12px; padding-right: 12px;" style="max-width:5cm ;min-width:5cm; position:relative; left: 0cm; ;">
+    <img src="1657622656120.jpg" class="card-img-center" alt="..." style="max-width:10cm ;min-width:5cm; position:relative; left: 0cm;">
+    <div class="card-body">
+      <h5 class="card-title text-dark" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;">Speeding in white and black</h5>
+      <p class="card-text text-dark" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;">Taken 18/05/2021.</p>
+      <p class="card-text" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;"><small class="text-muted">Nikon D5600</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <!-- Akhir -->
+    <!-- Awal Foto -->
+  <div class="card mb" style="padding-left: 12px; padding-top: 12px; padding-right: 12px;" style="max-width:5cm ;min-width:5cm; position:relative; left: 0cm; ;">
+    <img src="_MSA0664.jpg" class="card-img-center" alt="..." style="max-width:10cm ;min-width:5cm; position:relative; left: 0cm;">
+    <div class="card-body">
+      <h5 class="card-title text-dark" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;">Indonesia tradisional boat</h5>
+      <p class="card-text text-dark" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;">Taken 26/06/2022.</p>
+      <p class="card-text" style="max-width:20cm ;min-width:20cm; position:relative; left: 0cm;"><small class="text-muted">Nikon D5600</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <!-- Akhir -->
+
+<!-- Next Prev button -->
+ <nav aria-label="...">
+  <ul class="pagination">
+    <li class="page-item disabled">
+      <a class="page-link">Previous</a>
+    </li>
+    <li class="page-item active"><a class="page-link" href="/Gallery photo/index page1.html">1</a></li>
+    <li class="page-item" aria-current="page">
+      <a class="page-link" href="/Gallery photo/index page2.html">2</a>
+    </li>
+    <li class="page-item"><a class="page-link" href="/Gallery photo/index page3.html">3</a></li>
+    <li class="page-item">
+      <a class="page-link" href="/Gallery photo/index page2.html">Next</a>
+    </li>
+  </ul>
+ </nav>
+ <!-- Akhir -->

@@ -1,0 +1,115 @@
+/*Jumbotron picture profile*/
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    padding: 20px; 
+    transition: height 0.3s ease;
+}
+
+/*For responsive screen*/
+.container {
+    width: 90%;
+    max-width: 1200px; 
+    margin: 0 auto;
+}
+
+/*Profile picture*/
+.img-thumbnail {
+    display: flex;
+    max-width: 40%;
+    margin: auto; 
+    transition: max-width 0.3s ease; 
+}
+
+/*For screen under 991px (Profile picture)*/
+@media only screen and (max-width: 990px) { 
+    .img-thumbnail {
+        max-width: 35%;
+        margin: 0 auto;
+    }
+}
+
+/*More button*/
+.nav-item {
+    padding-bottom: 13px ;
+}
+
+/*Custom color more button*/
+.custom-button-more {
+    background-color: lightgray;
+    border-color: white;
+    color: 333;
+}
+
+/*Carousel caption*/
+.carousel-caption {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+    transition: transform 0.3s ease;
+}
+
+/* For screens responsive (Carousel) */
+@media only screen and (max-width: 1024px) {
+    .carousel-caption {
+        transform: scale(0.8);
+    }
+}
+@media only screen and (max-width: 767px) {
+    .carousel-caption {
+        transform: scale(0.74);
+    }
+}
+
+/*More button animation*/
+#navbarDropdown {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #navbarDropdown:hover {
+    background-color: #3c3c3c; 
+    transform: scale(1.1);
+  }
+
+#contact {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #contact:hover {
+    background-color: transparent;
+    transform: scale(1.1);
+  }
+
+#galery {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #galery:hover {
+    background-color: transparent;
+    transform: scale(1.1);
+  }
+
+#sns {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #sns:hover {
+    background-color: transparent;
+    transform: scale(1.1);
+  }
+
+/*Hover effect for More button*/
+
+ul li {
+    display: inline-block;
+}
+ul li:hover ul {
+    display: block;
+}
+  
+ul li ul li { 
+    background: #ffffff; 
+    display: block; 
+}
+  
