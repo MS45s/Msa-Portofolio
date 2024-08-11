@@ -1,0 +1,84 @@
+* {
+padding: auto;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: rgb(46, 46, 46);
+    font-size: 16px;
+}
+
+/*More button hover effect*/
+ul li {display: inline-block;}
+ul li:hover ul {display: block;}
+
+ul li ul li { 
+  display: block; 
+}
+
+/*More button animation*/
+#navbarDropdown {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #navbarDropdown:hover {
+    background-color: #3c3c3c; 
+    transform: scale(1.1);
+  }
+  
+  #contact {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #contact:hover {
+    background-color: transparent;
+    transform: scale(1.1);
+  }
+  
+  #galery {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #galery:hover {
+    background-color: transparent;
+    transform: scale(1.1);
+  }
+  
+  #sns {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #sns:hover {
+    background-color: transparent;
+    transform: scale(1.1);
+  }
+  
+  #home {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  #home:hover {
+    background-color: #3c3c3c;
+    transform: scale(1.1);
+  }
+
+/*Centering element*/
+.navbar-brand {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  #home {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3px;
+  }
+  #navbarDropdown {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3px;
+  }
